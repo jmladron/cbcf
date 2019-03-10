@@ -11,7 +11,7 @@ This Visual Studio C++ project consists of 3 files: CF.hpp (declaration file), C
 
 ## Command line arguments
 
-Command line arguments for CFBF are:
+Command line arguments for CBCF are:
 
 - m: filter mode, default value is 1 for cbcf, 0 is for standard cf
 - s: filter size, default value is 8192
