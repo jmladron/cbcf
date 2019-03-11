@@ -29,4 +29,4 @@ The Cuckoo Filter was developed by S. Pontarelli and the CBCF was developed by J
 
 ## License
 
-?
+MIT
